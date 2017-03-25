@@ -2,7 +2,7 @@
 	/* 
 	https://developers.facebook.com/docs/messenger-platform/webhook-reference/message-received 
 	*/
-	include 'config.php';
+	include '../config.php';
 	/*
 	Teste Tambem:
 	curl -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=EAAaki53jQwMBAGgy1sDUkjR0tQOyDFcVbKk1vavact1wiQ1dszOrAPiUuZCzdOL8bZCoVDdO9KpgqRyfVXSUEySUYwBgG6pijLRg0UC5AFG3MIxUMOAJarKPfvbBq58uIWXwdRZAxQeCACfhCCYbKQ2ccAvIPGVZAZAIXlcFJDAZDZD"

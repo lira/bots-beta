@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx src/bots/messenger/
+web: vendor/bin/heroku-php-nginx src/bots/messenger/01
