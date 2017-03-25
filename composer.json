@@ -4,9 +4,9 @@
     "type": "test, bot, facebook, messenger, telegram",
     "require": {
         "php": "^7.0"
-    },
+    },	
     "require-dev": {
-        "heroku-buildpack-php": "*"
+        "heroku/heroku-buildpack-php": "*"
     },	
     "authors": [
         {
