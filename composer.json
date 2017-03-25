@@ -1,0 +1,17 @@
+{
+    "name": "lira/bots-beta",
+    "description": "Apenas alguns testes",
+    "type": "test, bot, facebook, messenger, telegram",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "heroku-buildpack-php": "*"
+    },	
+    "authors": [
+        {
+            "name": "Fernando Lira",
+            "email": "fhlira@gmail.com"
+        }
+    ]
+}
